@@ -1,7 +1,7 @@
 # Diagnóstico de las fuentes de datos de OT Consulting
 
 **Entrega individual**  
-**Nombre:** ____________________  
+**Nombre:** Daniela Martinez Sauceda  
 **Fecha de referencia del respaldo:** 17 de noviembre de 2026
 
 ## Objeto de estudio
