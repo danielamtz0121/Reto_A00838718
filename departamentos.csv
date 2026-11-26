@@ -1,0 +1,7 @@
+﻿codigo_departamento,departamento,objetivo,estatus
+D0001,VENTAS,"Conseguir nuevos clientes, dar seguimiento a las oportunidades, facturar las etapas de los proyectos y las asignaciones mensuales de los consultores",ACTIVO
+D0002,ADMINISTRACIÓN Y FINANZAS,"Tener el control de los ingresos y egresos de OTC, llevar la contabilidad, hacer las transferencias y el Pago de los impuestos",ACTIVO
+D0003,RECURSOS HUMANOS,"Reclutamiento y selección del personal, administración de requerimientos de los empleados",ACTIVO
+D0004,OPERACIONES Y SOPORTE,"Control y seguimiento a los proyectos, administración de Soporte técnico y funcional a los clientes y administración de equipo de cómputo / licencias / accesos a los empleados",ACTIVO
+D0005,DIRECCIÓN GENERAL,Administración general de OTC,ACTIVO
+D0006,PROCESOS Y MEJORA CONTINUA,Administrar la documentación y automatización de los procesos internos de OTC. Implementar procesos de mejora continua.,ACTIVO

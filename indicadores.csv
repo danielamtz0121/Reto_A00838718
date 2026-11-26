@@ -1,0 +1,28 @@
+﻿pregunta,metrica,valor,valor_etapa2,nota
+P1,Colaboradores activos al corte,75,75,
+P1,Activos con asignación (tasa de utilización),30 (40.0%),30 (40%),Meta sugerida ≥ 85%
+P1,Activos en banca (sin asignación registrada),45,45,
+P1,Activos en banca si se excluyen asignaciones vencidas,47,—,Sensibilidad: Marazzi venció el 23-sep-2026 según el catálogo de Clientes
+P2,Asignaciones por vencer en 30 / 60 / 90 días,0 / 0 / 0,0 / 3 / 0,Antes: Marazzi aparecía con fin 01-ene-2027 (45 días); con R08 ya venció
+P2,Asignaciones ya vencidas,3,0,Las 3 de Marazzi (fin 23-sep-2026 en el catálogo de Clientes)
+P2,Personas que quedan libres al vencer (todas las vencidas o por vencer ≤ 90 días),2,—,
+P3,Proyectos En Curso sin personal,4 de 7 (57%),4 de 7 (57%),
+P3,Proyectos En Curso con fecha fin vencida,2,2,
+P3,Proyectos sin PM de OTC,6,6,
+P4,Costo por hora: promedio / mediana (activos con sueldo),$349.9 / $329.1,$349.9 / —,70 personas con sueldo; 5 sin sueldo no entran
+P5,Costo mensual de la plantilla asignada (MXN),"$1,924,711","$1,924,710",Suma de costo_mensual_asignado
+P6,Costo mensual de la banca (MXN),"$1,994,154",—,Incluye personal no consultivo y sin puesto; 15 personas sin puesto no se pueden clasificar
+P6,Peso de la banca sobre la nómina activa,50.9%,—,Meta sugerida ≤ 10%
+P6,BANCA CONSULTORÍA,"21 personas, $1,086,301",,
+P6,BANCA NO CONSULTIVA,"9 personas, $216,982",,
+P6,BANCA SIN CLASIFICAR (SIN PUESTO),"15 personas, $690,870",,
+P7,Habilidades con menos de 2 personas activas en nivel Avanzado/Experto,11,9 (contando bajas),2 nunca evaluadas
+P7,Habilidades con 0 personas activas en nivel Avanzado/Experto,6,5 (contando bajas),
+P8,Banca con matriz confiable (≥ 4 habilidades evaluadas),24,—,Falta el perfil requerido por proyecto para completar el cruce
+P9,Bajas con fecha / sin fecha,14 / 18,14 / 18,
+P10,Expedientes básicos completos (7 de 7),41 de 75 (55%),41 de 75,
+P10,Contratos pendientes,61 de 75,61 de 75,
+P11,Equipos a nombre de una baja (cualquier situación),17,17,
+P11,Equipos por recuperar (a nombre de baja y sin devolución),9,9 (documento) / 17 (cuaderno),La Etapa 2 mezclaba dos cifras; se separan por situación
+P11,Valor de los equipos por recuperar con costo conocido,"$40,693",—,5 equipos por recuperar sin costo
+P11,Equipos con costo desconocido,70 de 123,70 de 123,
